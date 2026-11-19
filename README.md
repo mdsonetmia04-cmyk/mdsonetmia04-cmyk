@@ -9,13 +9,13 @@ I build AI tools and design resources for creators — and sell vector art on Ad
 
 | Project | What it is | Live |
 |---|---|---|
+| [Portfolio](https://github.com/mdsonetmia04-cmyk/sonet-website) | Personal portfolio website | [sonet-mia.vercel.app](https://sonet-mia.vercel.app) |
 | [Sweet Design Studio](https://github.com/mdsonetmia04-cmyk/sweet-design-studio) | Adobe-ready design tools — titles, keywords, CSV & commercial stock briefs | [sweet-design-studio-delta.vercel.app](https://sweet-design-studio-delta.vercel.app/) |
 | [Sweet Prompt Studio](https://github.com/mdsonetmia04-cmyk/sweetprompt-studio) | Prompt studio powered by Gemini + Groq | [sweetprompt-studio.vercel.app](https://sweetprompt-studio.vercel.app/) |
 | [Prompt to Video Studio](https://github.com/mdsonetmia04-cmyk/prompt-to-video-studio) | Text-to-video studio — 720p / 1080p / 4K renders | [GitHub Pages](https://mdsonetmia04-cmyk.github.io/prompt-to-video-studio/) |
 | [Prompt Guru](https://github.com/mdsonetmia04-cmyk/promptguru) | Prompt Guru — AI prompt helper | [promptguru-two.vercel.app](https://promptguru-two.vercel.app/) |
 | [Event Finder](https://github.com/mdsonetmia04-cmyk/event-finder) | Sweet Event Finder — find events, plan ahead | — |
 | [AI Detector Humanize](https://github.com/mdsonetmia04-cmyk/sweet-ai-detector-humanize) | AI text detector & humanizer | — |
-| [Portfolio](https://github.com/mdsonetmia04-cmyk/sonet-website) | Personal portfolio website | [sonet-mia.vercel.app](https://sonet-mia.vercel.app) |
 | [SiteIncome Lab](https://github.com/mdsonetmia04-cmyk/siteincome-lab-static) | Static blog — income, tools & guides | — |
 
 ## 🛠️ Tech Stack
